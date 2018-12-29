@@ -1,7 +1,7 @@
  [
-    { "id": 1, "name": "john", "age": 21, "gender": "male" },
-    { "id": 2, "name": "judy", "age": 31, "gender": "female"},
-    { "id": 3, "name": "jack", "age": 41, "gender": "male"}, 
+    { "id": 1, "name": "John", "age": 21, "gender": "male" },
+    { "id": 2, "name": "Judy", "age": 31, "gender": "female"},
+    { "id": 3, "name": "Jack", "age": 41, "gender": "male"}, 
     { "id": 3, "name": "Gautam", "age": 32, "gender": "male"},
     { "id": 3, "name": "Sowjanya", "age": 30, "gender": "female"},
     { "id": 3, "name": "Om", "age": 2, "gender": "male"}, 

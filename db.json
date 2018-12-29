@@ -1,5 +1,4 @@
-{
-  "profiles": [
+ [
     { "id": 1, "name": "john", "age": 21, "gender": "male" },
     { "id": 2, "name": "judy", "age": 31, "gender": "female"},
     { "id": 3, "name": "jack", "age": 41, "gender": "male"}, 
@@ -9,4 +8,4 @@
     { "id": 3, "name": "Shakthi", "age": 1, "gender": "female"},
     { "id": 3, "name": "Shivaansh", "age": 3, "gender": "male"} 
   ]
-}
+

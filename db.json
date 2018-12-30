@@ -1,11 +1,11 @@
  [
-    { "id": 1, "name": "John", "age": 21, "gender": "male" },
-    { "id": 2, "name": "Judy", "age": 31, "gender": "female"},
-    { "id": 3, "name": "Jack", "age": 41, "gender": "male"}, 
-    { "id": 4, "name": "Gautam", "age": 32, "gender": "male"},
-    { "id": 5, "name": "Sowjanya", "age": 30, "gender": "female"},
-    { "id": 6, "name": "Om", "age": 2, "gender": "male"}, 
-    { "id": 7, "name": "Shakthi", "age": 1, "gender": "female"},
-    { "id": 8, "name": "Shivaansh", "age": 3, "gender": "male"} 
+    { "id": 1, "name": "John", "age": 21, "gender": "Male" },
+    { "id": 2, "name": "Judy", "age": 31, "gender": "Female"},
+    { "id": 3, "name": "Jack", "age": 41, "gender": "Male"}, 
+    { "id": 4, "name": "Gautam", "age": 32, "gender": "Male"},
+    { "id": 5, "name": "Sowjanya", "age": 30, "gender": "Female"},
+    { "id": 6, "name": "Om", "age": 2, "gender": "Male"}, 
+    { "id": 7, "name": "Shakthi", "age": 1, "gender": "Female"},
+    { "id": 8, "name": "Shivaansh", "age": 3, "gender": "Male"} 
   ]
 
